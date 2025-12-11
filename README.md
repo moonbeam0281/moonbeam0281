@@ -85,22 +85,13 @@ Building is how I grow.
 
 ## 📫 Reach Me
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://discord.com/users/214442156788678658">
+    <a href="https://discord.com/users/214442156788678658">
         <img width="40" src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png"/>
-        </a>
-        <h4 style = "margin-top: -5px">Discord</h4>
-    </div>
-<div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://www.instagram.com/moonbeam0281/">
+    </a>
+    <a href="https://www.instagram.com/moonbeam0281/">
         <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/>
-        </a>
-        <h4 style = "margin-top: -5px">Instagram</h4>
-    </div>
-<div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://www.facebook.com/dragan.nikoloski.92/">
+    </a>
+    <a href="https://www.facebook.com/dragan.nikoloski.92/">
         <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg"/>
         </a>
-        <h4 style = "margin-top: -5px">Facebook</h4>
-    </div>
 </div>
