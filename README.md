@@ -84,7 +84,7 @@ Building is how I grow.
 🌙
 
 ## 📫 Reach Me
-<p style="display: flex; justify-content: space-evenly; align-items: center;">
+<p style="display: flex; justify-content: space-around; align-items: center;">
     <a href="https://discord.com/users/214442156788678658">
         <img width="40" src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png"/>
     </a>
@@ -93,5 +93,5 @@ Building is how I grow.
     </a>
     <a href="https://www.facebook.com/dragan.nikoloski.92/">
         <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg"/>
-        </a>
+    </a>
 </p>
